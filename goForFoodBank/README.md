@@ -18,7 +18,7 @@ This small Python utility automatically checks the [SSF Food Bank webpage](https
 
 ### ✅ Option 1: Run the `.exe` directly (no Python required)
 
-1. Go to the `dist/` folder or download `goForFoodBank.exe`.
+1. Download `goForFoodBank.exe`.
 2. Double-click `goForFoodBank.exe` to launch it.
 3. When prompted, type `ok` and press Enter.
 4. The program will begin checking the SSF Food Bank page every 0.5–2 seconds.
